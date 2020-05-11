@@ -1,2 +1,3 @@
 # hello-world
-reposit a repository
+I have a repository.
+It's time to learn GitHub.
